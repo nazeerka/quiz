@@ -190,4 +190,9 @@
     width: 150px;
     height: 150px;
 }
+.dfijghiufd{
+    width: 150px;
+    height: 150px;
+
+}
 </style>
