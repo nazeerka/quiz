@@ -190,4 +190,8 @@
     width: 150px;
     height: 150px;
 }
+.fikjhgiuhgidf{
+	width: 150px;
+	height: 150px;
+}
 </style>
